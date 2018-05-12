@@ -1,4 +1,8 @@
 _repo: Closing-In-Marines-in-the-Seizure-of-Iwo-Jima_49080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49080-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, Joseph H.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44993'
     url: http://www.gutenberg.org/2009/agents/44993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49080#Closing-In-Marines-in-the-Seizure-of-Iwo-Jima
 gutenberg_issued: '2015-05-30'
 gutenberg_type: Text
 identifiers:
